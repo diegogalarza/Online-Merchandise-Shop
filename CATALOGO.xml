@@ -1,0 +1,16 @@
+<catalogo><id>1</id><fechaInicioFactura>1998-02-02</fechaInicioFactura><fechaFinalFactura>2021-12-02</fechaFinalFactura><detallesCatalogo> <ROW>
+  <nombreProducto>DIAMENTE</nombreProducto>
+  <cantidadProducto>90</cantidadProducto>
+  <precioProducto>179</precioProducto>
+ </ROW>
+ <ROW>
+  <nombreProducto>PC</nombreProducto>
+  <cantidadProducto>0</cantidadProducto>
+  <precioProducto>179</precioProducto>
+ </ROW>
+ <ROW>
+  <nombreProducto>ZOMBIE</nombreProducto>
+  <cantidadProducto>0</cantidadProducto>
+  <precioProducto>179</precioProducto>
+ </ROW>
+</detallesCatalogo></catalogo>

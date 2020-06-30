@@ -1,0 +1,22 @@
+<Factura><id>7</id><fechaFactura>2020-05-07</fechaFactura><fechaEntrega>2020-05-15</fechaEntrega><idPedido>6</idPedido><precioTotalSinIva>3335</precioTotalSinIva><PrecioTotalConIva>4117</PrecioTotalConIva><nombreCliente>VICTOR</nombreCliente><telefonoCliente>32656493</telefonoCliente><nombreCiudad>Palmira</nombreCiudad><nombreDepartamento>Valle del Cauca</nombreDepartamento><nombrePais>Colombia</nombrePais><DetalleFactura> <ROW>
+  <codigoProducto>3</codigoProducto>
+  <nombreProducto>DIAMENTE</nombreProducto>
+  <cantidadProducto>185</cantidadProducto>
+  <precioUnitario>150</precioUnitario>
+  <ivaUnitario>29</ivaUnitario>
+ </ROW>
+ <ROW>
+  <codigoProducto>6</codigoProducto>
+  <nombreProducto>PC</nombreProducto>
+  <cantidadProducto>188</cantidadProducto>
+  <precioUnitario>150</precioUnitario>
+  <ivaUnitario>29</ivaUnitario>
+ </ROW>
+ <ROW>
+  <codigoProducto>7</codigoProducto>
+  <nombreProducto>ZOMBIE</nombreProducto>
+  <cantidadProducto>189</cantidadProducto>
+  <precioUnitario>150</precioUnitario>
+  <ivaUnitario>29</ivaUnitario>
+ </ROW>
+</DetalleFactura></Factura>

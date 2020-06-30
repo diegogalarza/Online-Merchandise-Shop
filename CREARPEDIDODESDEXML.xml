@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<RealizarPedidoXML>
+	<fechaPedido>07-MAY-20</fechaPedido>
+	<idCliente>25</idCliente>
+    	<tipoCliente>Natural</tipoCliente>
+	<nombreCliente>Tania</nombreCliente>
+	<telefono>3176562058</telefono>
+	<direccionEnvio>cra24#9E-41</direccionEnvio>
+        <ciudad>Cali</ciudad>
+       	<departemento>Valle</departamento>
+        <pais>Colombia</pais>
+		<productos>
+			<producto> 
+				<idCatalogo>20</idCatalogo>
+				<idProducto>45</idProducto>
+				<cantidadProducto>125</cantidad>
+			</producto> 
+			<producto> 
+				<idCatalogo>20</idCatalogo>
+				<idProducto>45</idProducto>
+				<cantidadProducto>125</cantidad>
+			</producto> 
+			<producto> 
+				<idCatalogo>20</idCatalogo>
+				<idProducto>45</idProducto>
+				<cantidadProducto>125</cantidad>
+			</producto> 
+		</productos>
+</RealizarPedidoXML>
