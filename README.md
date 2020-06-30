@@ -3,8 +3,8 @@
 _DataBase Design of an Online Merchandise Shop which sells things to a person client and a business client, it gives a recipt and sells products depending on availability built in SQL and XML._
 
 ## Content
-Every SQL file from the table Creation and Droppers, CRUD, Insert, Billing, and XML file information gathering.
-Every XML file corresponding to Catalogs, purchase order and recipts.
+* Every SQL file from the table Creation and Droppers, CRUD, Insert, Billing, and XML file information gathering.
+* Every XML file corresponding to Catalogs, purchase order and recipts.
 
 ## Built with
 * [Oracle SQL Developer](https://www.oracle.com/tools/downloads/sqldev-v192-downloads.html) - To excecute and run every DB query and command.
